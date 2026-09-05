@@ -15,4 +15,10 @@ Minimal image-processing project.
 
 This is a learning project, I wanted to create my own pixelation program for personal use. I'm using GitHub to store and document my progress.
 
+### GUI
+
+See [`pixelated_gui.py`](pixelated_gui.py) for the current implementation.
+
+### Pixelator
+
 See [`pixelated.py`](pixelated.py) for the current implementation.
