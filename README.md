@@ -7,7 +7,8 @@ Minimal image-processing project.
 - [X] Downscale image into visible pixel blocks
 - [X] Use posterization to avoid blur
 - [X] Nearest-neighbor resampling
-- [ ] GUI
+- [X] Working GUI
+- [ ] Display input/output imgs
 - [ ] Batch conversion of a folder
 - [ ] *TBD*
 
